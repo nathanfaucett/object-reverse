@@ -1,4 +1,4 @@
 object-reverse
 =======
 
-object reverse for the browser and node.js
+reverse an objects keys and values
